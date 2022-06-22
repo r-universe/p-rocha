@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SoundShape"]
+	path = SoundShape
+	url = https://github.com/p-rocha/soundshape
+	shallow = true
+	registered = true
